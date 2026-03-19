@@ -27,11 +27,20 @@ PROCEDURE:
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
-OBSERVATIONS:
+THEORY:
+<img width="1397" height="1599" alt="image" src="https://github.com/user-attachments/assets/e8e2cbe3-55ff-4b60-b443-d5a441405a9e" />
+<img width="1302" height="1037" alt="image" src="https://github.com/user-attachments/assets/b12084a2-625b-4cc1-8ce3-a2e762bd8200" />
+
 
 REGULATION CHARACTERISTICS:
+<img width="953" height="373" alt="image" src="https://github.com/user-attachments/assets/0c91ac61-452f-4aa8-8f66-3a2d40849664" />
+<img width="824" height="1084" alt="image" src="https://github.com/user-attachments/assets/3838a5f2-4539-482e-b8cd-39ea0e0066ce" />
+<img width="1080" height="1312" alt="image" src="https://github.com/user-attachments/assets/21267e2e-a613-4a29-8d23-d56cf80794c7" />
 
 V-I & REGULATION CHARACTERISTICS:
+<img width="948" height="353" alt="image" src="https://github.com/user-attachments/assets/c8b7e9f4-8b37-4f3c-ad28-d43f2aa48424" />
+<img width="684" height="1004" alt="image" src="https://github.com/user-attachments/assets/cb293c00-4ed4-4609-942a-45c9388e9b91" />
+<img width="986" height="1254" alt="image" src="https://github.com/user-attachments/assets/fedc5347-a25d-4d26-8bb0-2fe7c55599f4" />
 
 PRECAUTIONS:
 
